@@ -9,7 +9,7 @@ module.exports = {
 
     // Paths
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/',
+    assetsPublicPath: '/demo-vue',
     proxyTable: {
         '/api': {                        // 自訂 local 端的位置
             target: 'https://litestudio.uikchen.huhu.tw/',  // 遠端 URL Domain
